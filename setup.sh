@@ -22,12 +22,17 @@ brew bundle
 sudo xcode-select -switch /Applications/Xcode.app/Contents/Developer
 sudo xcodebuild -license accept
 
+sudo gem install cocoapods
+
 # node
 
 echo 'eval "$(fnm env)"' >> /Users/andrei/.zprofile
 eval "$(fnm env)"
 fnm install 16.14.0
 fnm use 16.14.0
+
+npm install -g npm
+npm install -g yarn
 
 chmod +x ./.macos
 ./.macos
