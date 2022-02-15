@@ -19,13 +19,14 @@ eval "$(/opt/homebrew/bin/brew shellenv)"
 # Install Brewfile contents
 brew bundle
 
+
+# xcode licence and cocoapods for flutter
 sudo xcode-select -switch /Applications/Xcode.app/Contents/Developer
 sudo xcodebuild -license accept
 
 sudo gem install cocoapods
 
 # node
-
 echo 'eval "$(fnm env)"' >> /Users/andrei/.zprofile
 eval "$(fnm env)"
 fnm install 16.14.0
@@ -34,9 +35,11 @@ fnm use 16.14.0
 npm install -g npm
 npm install -g yarn
 
+#macos preferences
 chmod +x ./macos
 ./macos
 
+#macos dock preferences
 chmod +x ./macos_dock_entries
 ./macos_dock_entries
 
