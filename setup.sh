@@ -34,5 +34,10 @@ fnm use 16.14.0
 npm install -g npm
 npm install -g yarn
 
-chmod +x ./.macos
-./.macos
+chmod +x ./macos
+./macos
+
+chmod +x ./macos_dock_entries
+./macos_dock_entries
+
+
