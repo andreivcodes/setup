@@ -22,6 +22,7 @@ cask "blackhole-2ch"
 cask "obs"
 cask "flutter"
 cask "notion"
+cask "fantastical"
 
 mas "Keynote", id: 409183694
 mas "Numbers", id: 409203825
