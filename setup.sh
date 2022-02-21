@@ -20,11 +20,12 @@ eval "$(/opt/homebrew/bin/brew shellenv)"
 brew bundle
 
 
-# xcode licence and cocoapods for flutter
+#flutter
 sudo xcode-select -switch /Applications/Xcode.app/Contents/Developer
 sudo xcodebuild -license accept
-
 sudo gem install cocoapods
+sudo arch -x86_64 gem install ffi
+flutter config --enable-macos-desktop
 
 # node
 echo 'eval "$(fnm env)"' >> /Users/andrei/.zprofile
