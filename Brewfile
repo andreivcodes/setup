@@ -16,13 +16,15 @@ cask "discord"
 cask "github"
 cask "visual-studio-code"
 cask "vlc"
-cask "whatsapp"
+cask "whatsapp-beta"
 cask "monitorcontrol"
 cask "blackhole-2ch"
 cask "obs"
 cask "flutter"
 cask "notion"
 cask "fantastical"
+cask "gpg-suite-no-mail"
+cask "protonmail-bridge"
 
 mas "Keynote", id: 409183694
 mas "Numbers", id: 409203825
