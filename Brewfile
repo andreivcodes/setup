@@ -25,6 +25,7 @@ cask "notion"
 cask "fantastical"
 cask "gpg-suite-no-mail"
 cask "protonmail-bridge"
+cask "spotify"
 
 mas "Keynote", id: 409183694
 mas "Numbers", id: 409203825
