@@ -16,7 +16,7 @@ cask "discord"
 cask "github"
 cask "visual-studio-code"
 cask "vlc"
-cask "whatsapp-beta"
+cask "franz"
 cask "monitorcontrol"
 cask "blackhole-2ch"
 cask "obs"
@@ -26,6 +26,8 @@ cask "fantastical"
 cask "gpg-suite-no-mail"
 cask "protonmail-bridge"
 cask "spotify"
+cask "insomnia"
+cask "calibre"
 
 mas "Keynote", id: 409183694
 mas "Numbers", id: 409203825
