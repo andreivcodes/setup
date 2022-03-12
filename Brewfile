@@ -29,6 +29,7 @@ cask "calibre"
 cask "discord"
 cask "whatsapp"
 cask "messenger"
+cask "tunnelblick"
 
 mas "Keynote", id: 409183694
 mas "Numbers", id: 409203825
