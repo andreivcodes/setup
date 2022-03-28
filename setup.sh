@@ -18,7 +18,8 @@ eval "$(/opt/homebrew/bin/brew shellenv)"
 
 # Install Brewfile contents
 brew bundle
-
+# Not signed by Librewolf
+xattr -d com.apple.quarantine /Applications/LibreWolf.app
 
 #flutter
 sudo xcode-select -switch /Applications/Xcode.app/Contents/Developer

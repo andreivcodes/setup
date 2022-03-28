@@ -11,7 +11,7 @@ brew "mas"
 
 cask "1password"
 cask "ledger-live"
-cask "brave-browser"
+cask "librewolf"
 cask "github-beta"
 cask "visual-studio-code"
 cask "vlc"
