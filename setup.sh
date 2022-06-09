@@ -30,8 +30,8 @@ flutter config --enable-macos-desktop
 # node
 echo 'eval "$(fnm env)"' >> /Users/andrei/.zprofile
 eval "$(fnm env)"
-fnm install 16.14.0
-fnm use 16.14.0
+fnm install 16
+fnm use 16
 
 npm install -g npm
 npm install -g yarn
