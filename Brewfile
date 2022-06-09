@@ -5,6 +5,7 @@ tap "homebrew/cask-fonts"
 tap "homebrew/cask-versions"
 tap "homebrew/core"
 tap "homebrew/cask-drivers"
+tap "samuelmeuli/tap"
 
 brew "fnm"
 brew "mas"
@@ -28,6 +29,7 @@ cask "discord"
 cask "whatsapp"
 cask "messenger"
 cask "tunnelblick"
+cask "tmignore"
 
 mas "Keynote", id: 409183694
 mas "Numbers", id: 409203825

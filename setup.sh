@@ -44,4 +44,5 @@ chmod +x ./macos_preferences
 chmod +x ./macos_dock_preferences
 ./macos_dock_preferences
 
+brew services start tmignore
 
