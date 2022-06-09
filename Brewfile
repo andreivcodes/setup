@@ -19,7 +19,7 @@ cask "vlc"
 cask "monitorcontrol"
 #cask "blackhole-2ch"
 cask "flutter"
-cask "notion"
+#cask "notion"
 cask "fantastical"
 cask "gpg-suite-no-mail"
 cask "spotify"
@@ -29,7 +29,7 @@ cask "discord"
 cask "whatsapp"
 cask "messenger"
 cask "tunnelblick"
-cask "tmignore"
+cask "samuelmeuli/tap/tmignore"
 
 mas "Keynote", id: 409183694
 mas "Numbers", id: 409203825
@@ -37,6 +37,3 @@ mas "Pages", id: 409201541
 mas "The Unarchiver", id: 425424353
 mas "Xcode", id: 497799835
 mas "Magnet", id: 441258766
-mas "Ikea Home smart", id: 1195836071
-mas "Xiaomi Home - xiaomi smarthome", id: 957323480
-mas "Bitwarden", id: 1352778147

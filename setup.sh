@@ -36,13 +36,5 @@ fnm use 16
 npm install -g npm
 npm install -g yarn
 
-#macos preferences
-chmod +x ./macos_preferences
-./macos_preferences
-
-#macos dock preferences
-chmod +x ./macos_dock_preferences
-./macos_dock_preferences
-
 brew services start tmignore
 
